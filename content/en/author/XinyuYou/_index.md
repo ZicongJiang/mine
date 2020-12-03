@@ -3,7 +3,7 @@
 name = "Zicong Jiang"
 
 # Username (this should match the folder name)
-authors = ["ZicongJiang"]
+authors = ["XinyuYou"]
 
 # Is this the primary user of the site?
 superuser = true
@@ -77,8 +77,7 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-
-
+Zicong Jiang is a student of communication engineering at the Key Laboratory of Modern Power System Simulation and Control and Renewable Energy Technology in NEEPU. His research interests include Optical Communication, Computer Version and Signal Processing. He is researching Object Detection with Professor Liquan Zhao.
 
 ---
 What I am doing Now?
